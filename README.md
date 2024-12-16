@@ -8,9 +8,9 @@ Big thanks to [YawLighthouse](https://www.youtube.com/@YawLighthouse) for his be
 <br>
 
 <p align="center">
-    <img width="80%" src="ss_preview.png">
+    <img width="100%" src="ss_preview.png">
     <br><br>    
-    <img width="80%" src="ss_draw_debug_spline_node.png">
+    <img width="100%" src="ss_draw_debug_spline_node.png">
 </p>
 
 ## License
